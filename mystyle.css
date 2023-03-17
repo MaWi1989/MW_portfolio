@@ -1,0 +1,93 @@
+body html {
+    height:100%;
+    margin:0px;
+}
+div {
+    padding-left: 2vw;
+}
+h3 {
+    padding-left: 1vw;
+}
+#name {
+    color:#f8f3c1;
+    font-size: 8vh;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    font-style: italic;
+    font-weight: bolder;
+    text-shadow: 0 0 5px black;  
+    text-align: center;
+    margin-top:10%;
+    margin-bottom: none;
+    padding-bottom: 3vh;
+    border:none;    
+}
+.navlinks ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}    
+.navlinks li {
+    float: left;   
+    margin: 2vw;
+}
+.navlinks li a {
+    display: block;   
+    color: #f8f3c1;
+    background-color: hsla(300, 100%, 70%, 0.6);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 5vh;
+    font-weight: bolder;
+    text-decoration: none;
+    text-align: center;
+    padding: 1vw;
+    border: 1.5vw solid hsla(300, 100%, 70%, 0.6);
+    margin: 0px;
+}
+.navlinks li a:hover {
+    color: rgb(204, 11, 243);
+}
+.paragraph {
+    color:#f8f3c1;
+    font-size: 3vh;
+    background-color: hsla(300, 100%, 70%, 0.5);
+    background-attachment: fixed;
+    padding-bottom: 1vh;
+}
+.fam {
+    float:inline-start; 
+    width:20vw; 
+    height:auto;
+    border-radius: 5vh;
+}
+.fb {
+    background-color: blue;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 5px;
+    margin-bottom: 3vh;
+}  
+.button{
+background-color: #f8f3c1;
+}    
+.comment_box {
+    border-radius: 3px;
+    height: 15vh;
+    width: 10vw;
+    max-width: 80%;    
+}
+.comment_section textarea {
+    height:12vh;
+    width: 10vw;
+}
+.contact {
+    color:#f8f3c1;
+    font-size: 4vh;
+    margin-bottom: none;
+    padding-bottom: none;
+}
+.email {
+    color:#f8f3c1;
+    font-size: 3vh;   
+    font-style: italic;
+}
