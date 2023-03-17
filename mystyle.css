@@ -64,6 +64,8 @@ h3 {
     background-color: blue;
     color: white;
     font-family: 'Courier New', Courier, monospace;
+    width:7vw;
+    height: 3.5vh;
     border-radius: 5px;
     margin-bottom: 3vh;
 }  
